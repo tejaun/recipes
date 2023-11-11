@@ -1,6 +1,6 @@
 # Recipes
 
-[Recipes Repository](http://www.github.com/tejaun/recipes)
+[Recipes Project](https://tejaun.github.io/recipes/)
 
 ## Table of Contents
 - [About the Project](#about-the-project)
